@@ -10,8 +10,8 @@ export default function Index() {
   return (
     <>
       <h1>Title</h1>
-      {data.map((data) => (
-        <Card title={data.title} description={data.description} />
+      {data.map((item) => (
+        <Card title={item.title} description={item.description} />
       ))}
     </>
   );
