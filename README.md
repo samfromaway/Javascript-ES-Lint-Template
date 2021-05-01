@@ -45,6 +45,7 @@ Don't forget to install the plugins:
 [Prettier Options](https://prettier.io/docs/en/options.html) <br/>
 [es-Lint](https://eslint.org/docs/user-guide/getting-started) <br/>
 [Airbnb Javascript](https://www.npmjs.com/package/eslint-config-airbnb)  <br/>
+[Husky](https://typicode.github.io/husky/#/)  <br/>
 [es-lint-resolver](https://github.com/benmosher/eslint-plugin-import)
 
 ## Typescript
