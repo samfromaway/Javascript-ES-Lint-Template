@@ -1,6 +1,6 @@
 # CI Boilerplate - Next JS and Javascript
 
-This is a Next JS starting base for a production ready application. It's built with es-lint, prettier, husky and github actions. The code is written in Typescript.
+This is a Next JS starting base for a production ready application. It's built with es-lint, prettier, husky and github actions. The code is written in Javascript.
 
 ## Base for this video
 Check out this video to get more information: [https://youtu.be/IrPz0kd2FTk](https://youtu.be/IrPz0kd2FTk)
