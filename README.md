@@ -38,7 +38,7 @@ Check out this video to get more information: [https://youtu.be/IrPz0kd2FTk](htt
 ## Installed VS Code Plugins
 Don't forget to install the plugins:
 
-[ES-Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+[ES-Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) <br/>
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Additional Documentation
