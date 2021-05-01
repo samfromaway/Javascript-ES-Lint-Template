@@ -1,11 +1,11 @@
 {
   "root": true,
   "extends": [
+    "plugin:import/errors",
+    "plugin:import/warnings",
     "airbnb",
     "airbnb/hooks",
-    "plugin:prettier/recommended",
-    "plugin:import/errors",
-    "plugin:import/warnings"
+    "plugin:prettier/recommended"
   ],
 
   "rules": {
